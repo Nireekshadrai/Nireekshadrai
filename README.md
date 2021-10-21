@@ -1,5 +1,5 @@
-### Hi there 👋 
-I am Nireeksha
+### Hi there 👋 ,I'm Nireeksha D Rai
+
 
 <!--
 **Nireekshadrai/Nireekshadrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nireekshadrai&hide=prs&show_icons=true&count_private=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nireekshadrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
