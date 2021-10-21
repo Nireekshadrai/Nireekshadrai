@@ -1,4 +1,4 @@
-### Hi there 👋 ,I'm Nireeksha D Rai
+### Hi there 👋, I'm Nireeksha D Rai
 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nireekshadrai&hide=prs&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nireekshadrai&show_icons=true&count_private=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nireekshadrai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
