@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Nireekshadrai&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nireekshadrai&hide=contribs,prs&show_icons=true&count_private=true)
+
 
